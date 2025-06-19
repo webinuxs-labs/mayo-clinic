@@ -5,7 +5,7 @@
 </picture>
 
 # Myao Clinic
-
+Mayo clinic a demo website for webinuxs theme.
 
 ## Live demo
 https://demo1.webinuxs.com/
@@ -16,12 +16,11 @@ To unlock the wonders of this project, simply follow these steps:
 - **Open the Portal:** Locate the `index.html` file in the project's root directory.
 - **Enter the Realm:** Launch your favorite web browser and open the `index.html` file to embark on your journey.
 
-## Key features
-- Created with Javascript and CSS3
-- Smooth switching animation
-- Smart open or close system
-- Rainbow and color and iconic icon
-- Super beautiful UI
+## Key Services
+- Custom Web & Mobile Application
+- Complex E-commerce Website
+- Any kind of real estate solutions
+- Native Mobile Application
 
 ## Support
 Need assistance? Drop us a line at info@webinuxs.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
